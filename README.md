@@ -1,9 +1,11 @@
 # 💫 About Me:
-Computer Science Student  
-Aspiring DevOps Engineer | Cloud & Automation Enthusiast  
+# 👋 Yousef Rizk
 
-I’m passionate about Linux, Cloud Computing, CI/CD pipelines, and building automated infrastructure.  
-Currently focusing on DevOps, Cloud (AWS), and scripting to build production-ready environments.
+DevOps Engineer | Linux · Docker · CI/CD · AWS . Jenkins . GitHub Actions . GitLab 
+
+Built end-to-end CI/CD pipelines using Jenkins and GitHub Actions,
+containerized with Docker, and deployed to AWS ECR.
+Red Hat Certified | NTI Linux Administration Graduate.
 
 ---
 
