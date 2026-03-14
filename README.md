@@ -45,4 +45,4 @@ containerized with **Docker**, and deployed to **AWS ECR**.
 
 ---
 
-[!
+[![](https://visitcount.itsvg.in/api?id=yousefrizkk&icon=0&color=0)](https://visitcount.itsvg.in)
